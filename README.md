@@ -9,11 +9,9 @@ Selamat datang di **Bookshelf App**! Aplikasi ini dirancang untuk membantu Anda 
 - **🗑️ Hapus Buku**: Hapus buku dari rak Anda kapan saja.
 - **💾 Penyimpanan Lokal**: Data buku disimpan menggunakan `localStorage`, sehingga tetap ada meskipun halaman ditutup.
 
-## 📸 Antarmuka Aplikasi
+## 📸 Tampilan Bookshelf App
 
-Berikut adalah tampilan antarmuka dari **Bookshelf App**:
-
-![Bookshelf App Interface](images/book.png)
+![Bookshelf App Interface](images/BookshelfApp.png)
 
 ## 🛠️ Bahasa yang Digunakan
 
